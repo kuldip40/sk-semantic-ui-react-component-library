@@ -15,12 +15,12 @@ npm install --save sk-semantic-ui-react-component-library
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'sk-semantic-ui-react-component-library'
+import { Counter } from 'sk-semantic-ui-react-component-library'
 import 'sk-semantic-ui-react-component-library/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <Counter initialCount={10} /> //initialCount prop is optional. default value is 1.
   }
 }
 ```

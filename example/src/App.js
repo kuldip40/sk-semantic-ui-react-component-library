@@ -1,10 +1,15 @@
 import React from 'react'
 
-import { ExampleComponent } from 'sk-semantic-ui-react-component-library'
+import { Button, Counter } from 'sk-semantic-ui-react-component-library'
 import 'sk-semantic-ui-react-component-library/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return (
+    <>
+      <Button style={{ background: 'blue' }}>asdf</Button>
+      <Counter initialCount={10} />
+    </>
+  )
 }
 
 export default App
