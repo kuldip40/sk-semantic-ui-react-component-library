@@ -1,0 +1,25 @@
+/*******************************
+         Site Overrides
+*******************************/
+@borderRadius: 4px;
+@actionBorder: none;
+@closeTop: 18px;
+@closeRight: 0;
+@closeColor: #000;
+@closeOpacity: 1;
+@actionBackground: #fff;
+@smallHeaderSize: 15px;
+@miniHeaderSize: 15px;
+@tinyHeaderSize: 15px;
+@headerColor: #000;
+@headerBackground: #fff;
+@headerFontSize: 15px;
+@headerPadding: 18px;
+@headerBorder: 1px solid @borderColor;
+@scrollingContentMaxHeight: calc(95vh - 10em);
+
+/* Content */
+@contentPadding: 18px;
+
+/* Modal Actions */
+@actionPadding: 10px;

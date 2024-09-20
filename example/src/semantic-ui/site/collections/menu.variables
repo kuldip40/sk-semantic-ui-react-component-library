@@ -1,0 +1,42 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+@activeItemTextColor: #1E90FF;
+@verticalHeaderFontSize: 13px;
+@secondaryItemColor: rgba(27, 50, 90, 0.54);
+@verticalBoxShadow: none;
+@hoverItemBackground: #EFF7FF;
+@hoverItemTextColor: #1E90FF;
+@activeItemBackground: #e8f3ff;
+@activeItemTextColor:  #1E90FF;
+@activeItemFontWeight: 500;
+@secondaryBackground: none;
+@margin: 0 0;
+@secondaryPointingBorderWidth: 1px;
+@fontWeight: 500;
+@dropdownItemFontSize: 14px;
+@dropdownItemPadding: 10px 18px;
+@activeHoverItemBackground: #EFF7FF;
+@activeHoverItemColor:  #1E90FF;
+
+@dropdownHoveredItemBackground: #EFF7FF;
+@secondaryHoverItemColor: #1E90FF;
+
+@secondaryItemMargin: 0px;
+@secondaryItemBorderRadius: 8px;
+@secondaryVerticalItemBorderRadius: 4px;
+
+@secondaryHoverItemBackground: @lightPrimaryColor;
+@secondaryHoverItemColor: @primaryColor;
+
+@secondaryActiveItemBackground: @lightPrimaryColor;
+@secondaryActiveItemColor: @primaryColor;
+
+@secondaryActiveHoverItemBackground: @lightPrimaryColor;
+@secondaryActiveHoverItemColor: @primaryColor;
+
+@itemTextColor: #444b52;
+
+@secondaryItemPadding: 11px 22px;
+
+@dropdownIconDistance: 0.7em;

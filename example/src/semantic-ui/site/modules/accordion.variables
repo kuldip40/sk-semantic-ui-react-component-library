@@ -1,0 +1,17 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+
+@styledBorderRadius: 0;
+@styledTitlePadding: 12px;
+@titleFontSize: 15px;
+@styledTitleColor: #000;
+@styledBoxShadow: none;
+@styledBackground: none;
+@styledContentPadding: 0 12px 16px;
+@styledTitleHoverColor: @primaryColor;
+@styledActiveTitleColor: @primaryColor;
+@styledTitleFontWeight: 500;
+
+@contentPadding: 0em 0em 1em;

@@ -1,0 +1,17 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+@contentLineHeight: 1.5;
+
+@itemDescriptionColor: #6c7c8c;
+
+@selectionListHoverBackground: #e8f3ff;
+@selectionListActiveBackground: #e8f3ff;
+@selectionListActiveColor: #fff;
+
+
+/* Very Relaxed */
+@veryRelaxedItemVerticalPadding: 24px;
+@veryRelaxedChildItemVerticalPadding: 8px;
+@veryRelaxedHeaderMargin: 1rem;
+@veryRelaxedHorizontalPadding: 2rem;

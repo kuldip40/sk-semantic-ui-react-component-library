@@ -1,14 +1,8 @@
 import React from 'react'
+import Button from 'semantic-ui-react/dist/es/elements/Button'
 
-const Button = ({ children, style = {}, ...otherprops }) => {
-  return (
-    <button
-      style={{ padding: '8px 10px', margin: '10px 0', ...style }}
-      {...otherprops}
-    >
-      {children}
-    </button>
-  )
+const SkButton = (props) => {
+  return <Button {...props}>{props.children}</Button>
 }
 
-export default Button
+export default SkButton

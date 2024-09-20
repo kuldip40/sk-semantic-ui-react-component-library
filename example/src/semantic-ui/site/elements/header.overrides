@@ -1,0 +1,9 @@
+/*******************************
+         Site Overrides
+*******************************/
+h3.ui.header {
+  font-size: 16px;
+}
+h3.ui.header .sub.header {
+  font-size: 13px;
+}

@@ -1,0 +1,12 @@
+/*******************************
+         Site Overrides
+*******************************/
+
+@resultImageFloat: left;
+@resultPriceColor: #1d89ff;
+@resultsWidth: 100%;
+@resultImageMargin: 0em 0em 0em 6em;
+@resultTitleColor:  rgb(27 50 90 / 70%);
+@resultsBorder: 1px solid #edf2fa;
+@resultsBoxShadow: 0 0.75rem 1.5rem rgba(17, 39, 66, 0.03);
+@resultDivider: 1px solid #edf2fa;

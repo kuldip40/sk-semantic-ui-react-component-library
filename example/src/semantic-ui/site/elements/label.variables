@@ -1,0 +1,10 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@backgroundColor: #f4f6f9;
+@color: #001f3d;
+@border: 1px solid #d9e0e6;
+@verticalPadding: 0.50em; 
+@horizontalPadding: 0.50em;
+@fontWeight: 400;

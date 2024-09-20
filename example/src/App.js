@@ -1,12 +1,13 @@
 import React from 'react'
 
-import { Button, Counter } from 'sk-semantic-ui-react-component-library'
+import { SkButton, Counter } from 'sk-semantic-ui-react-component-library'
 import 'sk-semantic-ui-react-component-library/dist/index.css'
+import 'semantic-ui-less/semantic.less'
 
 const App = () => {
   return (
     <>
-      <Button style={{ background: 'blue' }}>asdf</Button>
+      <SkButton primary>asdf</SkButton>
       <Counter initialCount={10} />
     </>
   )

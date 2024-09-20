@@ -1,0 +1,18 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@contentPadding: 18px;
+@contentDivider: 1px solid @borderColor;
+@margin: 18px 0em;
+
+@border: 1px solid @borderColor;
+@borderRadius: 4px;
+@boxShadow: none;
+
+@headerFontSize: 14px;
+@headerColor: @textColor;
+@headerMargin: 0;
+
+@metaFontSize: 12px;
+@metaColor: @textColor;

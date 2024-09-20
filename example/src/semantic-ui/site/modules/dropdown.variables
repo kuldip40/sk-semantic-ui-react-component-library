@@ -1,0 +1,29 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@borderRadius: 5px;
+@itemPadding: 12px 50px 12px 20px ;
+@menuInputMargin: 9px 15px 15px 15px;
+@menuInputMinWidth: 7rem;
+@menuMargin: 0.6em 0;
+@menuPadding: 8px;
+@itemFontSize: 14px;
+@menuBorder: none;
+
+@hoveredItemBackground: #EFF7FF;
+@menuBoxShadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
+@upwardMenuBoxShadow: 0 6px 18px 0 #e4e4e4;
+@selectionItemDivider: none;
+
+@selectedBackground: #e8f3ff;
+@selectedColor: #1b325a;
+
+/* Menu Header */
+@menuHeaderFontSize: 12px;
+@menuHeaderMargin: 0;
+@menuHeaderPadding: 12px 20px;
+
+@inlineTextFontWeight: 500;
+
+@selectionBorder: 1px solid @borderColor;

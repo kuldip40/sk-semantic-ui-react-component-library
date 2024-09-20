@@ -1,0 +1,42 @@
+/*******************************
+     User Global Variables
+*******************************/
+@fontName          : 'Inter';
+@googleFontSizes   : '100,22,300,400,500,600,700,800,900';
+@bold              : 500;
+@pageBackground      : #fff;
+@emSize   : 14px;
+@fontSize : 14px;
+
+@primaryColor        : #616FC7;
+@secondaryColor      : #8195B7;
+@blue             : @primaryColor;
+
+@lightPrimaryColor   : #616fc72b;
+@lightSecondaryColor : #BFCCE3;
+
+@headerFontWeight : 500;
+@headerLineHeight : 1.5;
+
+@focusedFormBorderColor: @primaryColor;
+@focusedFormMutedBorderColor: @primaryColor;
+
+@lineHeight          : 1.5;
+@textColor           : #000000;
+
+@linkColor           : @primaryColor;
+@borderColor         : #E2E7F2;
+
+@customScrollbarWidth: 5px;
+@customScrollbarHeight: 5px;
+@thumbBackground: rgba(0, 0, 0, 0.15);
+@thumbInactiveBackground: rgba(0, 0, 0, 0.10);
+@thumbBorderRadius: 0;
+
+@inputPlaceholderColor: #BABABA;
+@inputBackground: #fff;
+
+@disabledOpacity: 0.80;
+@pageOverflowX : auto;
+
+@buttonVerticalPadding : 0.78571429;

@@ -1,0 +1,17 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+@gutterWidth: 2em;
+@rowDistance: 1.5em;
+
+@labelFontSize: 13px;
+@disabledLabelOpacity: 1;
+@labelFontWeight: 400;
+@labelDistance: @4px;
+@labelColor : #374151;
+
+@inputBorder: 1px solid @borderColor;
+@selectBackground: #FAFBFC;
+@inputFocusBackground: #F3F6F9;
+
+@inputColor: #0D1216CC;

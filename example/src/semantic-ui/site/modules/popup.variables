@@ -1,0 +1,10 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@verticalPadding: 8px;
+@horizontalPadding: 8px;
+
+@invertedColor: #fff;
+@invertedHeaderBackground: #5472a5;
+@invertedHeaderColor: #fff;
