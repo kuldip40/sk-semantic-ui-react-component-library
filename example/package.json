@@ -2,7 +2,6 @@
   "name": "sk-semantic-ui-react-component-library-example",
   "homepage": ".",
   "version": "0.0.0",
-  "private": true,
   "scripts": {
     "start": "craco start",
     "build": "craco build",
